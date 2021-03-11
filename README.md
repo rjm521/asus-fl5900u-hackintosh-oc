@@ -117,5 +117,5 @@ If want your `AR9565 Wireles Card` work, you should：
 
 ## Thanks
 
-- This EFI is based on (firmanjamal)[https://github.com/firmanjml/Asus-X556UQK-Hackintosh-OC]'s repo. I just modified some stuff and let it worked for my laptop. If your laptop is similar to mine, hopefully it work for you too. 
+- This EFI is based on [firmanjamal](https://github.com/firmanjml/Asus-X556UQK-Hackintosh-OC) 's repo. I just modified some stuff and let it worked for my laptop. If your laptop is similar to mine, hopefully it work for you too. 
 
