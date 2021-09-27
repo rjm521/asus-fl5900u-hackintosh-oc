@@ -4,15 +4,11 @@
 
 ## OpenCore Version
 
-- 0.66
+- 0.7.3
 
 ## MAC OS Version
 
 - Big Sur 11.2
-
-## For Debug
-
-- For debug mode: please add `-v` to  `boot-args`
 
 ## Note
 
@@ -30,9 +26,9 @@ Please generate your own SMBIOS SN, UUID using MacBookPro14,1 and change your RO
 
 | Name              | Specifications                                               |
 | ----------------- | ------------------------------------------------------------ |
-| Processor         | Intel Core i7 - 7500u                                        |
-| Memory            | 1x 4 GB DDR4 2133 Mhz + 1x 8 GB DDR4 2133 Mhz                |
-| Storage           | SSD 128G + HDD 1T                                            |
+| Processor         | Intel Core i7 - 7500U                                        |
+| Memory            | 1x 4 GB DDR4 2133 Mhz                                        |
+| Storage           | SSD 128G                                                     |
 | Video             | Integrated Intel HD 620 + NVIDIA 940MX                       |
 | Wi-Fi + Bluetooth | Qualcomm Atheros 9565                                    |
 | Ethernet          | Realtek RTL8111                                              |
@@ -56,8 +52,6 @@ For more details about my laptop, please see `laptop-config-list.txt` file in th
 ✅ USB type C port
 
 ✅ Keyboard
-
-✅ Touchpad
 
 ✅ Internal screen backlight change
 
@@ -89,6 +83,8 @@ For more details about my laptop, please see `laptop-config-list.txt` file in th
 
 ❌ Realtek SD card reader
 
+❌ Touchpad (It's terrible,you won't need it!)
+
 ❌ NVIDIA GeForce 940MX (Optimus - impossible to get working at the moment)
 
 
@@ -105,13 +101,13 @@ If want your `AR9565 Wireles Card` work, you should：
 
   
 
-![order.img](/Users/rjm/repo/asus-fl5900u-hackintosh-oc/config-order.png)
 
 
 
 ## Contact
 
 - 1824793405@qq.com
+- hjh70526@gmail.com
 
 
 
