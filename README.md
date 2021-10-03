@@ -8,7 +8,7 @@
 
 ## MAC OS Version
 
-- Big Sur 11.2
+- Big Sur 11.0 - 11.2
 
 ## Note
 
